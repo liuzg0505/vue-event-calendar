@@ -1,18 +1,22 @@
 # scrpjt
 
-> vue 事件日历组件
+> vue 事件日历组件 + 滚动条插件(vue-gemini-scrollbar)
 
 ## Build Setup
 
 ``` bash
+# myCalendar URL:
+http://localhost:9091/#/usemycalendar
+
+# 滚动条插件(vue-gemini-scrollbar) URL:
+http://localhost:9091/#/helloworld
+
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
 
-# myCalendar URL:
-http://localhost:9091/#/usemycalendar
 
 # build for production with minification
 npm run build
